@@ -1,5 +1,7 @@
 *.class
 *~
+
+忽略本地修改的文件
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
